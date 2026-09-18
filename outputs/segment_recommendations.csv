@@ -1,0 +1,5 @@
+Segment,Fitted Vmax,Fitted Km,Current Calls/Month,Optimal Calls/Month,Call Change,Action,Projected DeltaRx/Doc/Month,Projected DeltaRev/Doc/Month ($),Net Monthly Impact/Doc ($)
+Cardiologist,49.2,4.62,5.0,7,2.0,Increase,5.5,820.1,314.9
+Endocrinologist,50.5,3.5,5.5,7,1.5,Increase,4.3,643.2,259.5
+Neurologist,38.5,4.0,4.1,6,1.9,Increase,4.8,718.7,246.9
+GP,22.0,2.75,3.1,3,-0.1,Decrease,0.7,99.6,116.4
