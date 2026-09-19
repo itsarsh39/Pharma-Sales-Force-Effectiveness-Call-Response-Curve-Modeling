@@ -548,7 +548,7 @@ with tab4:
             return "color: #f87171; font-weight: bold"
         return "color: #fbbf24; font-weight: bold"
 
-    styled = reco.style.applymap(style_action, subset=["Action"]) \
+    styled = reco.style.map(style_action, subset=["Action"]) \
                        .format({
                            "Fitted Vmax": "{:.1f}",
                            "Fitted Km": "{:.2f}",
